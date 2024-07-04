@@ -1,0 +1,9 @@
+/Users/alyonashinkareva/Desktop/chance/second-chance-multitype-alyoshinkkaa/cmake-build-debug/CMakeFiles/main.dir
+/Users/alyonashinkareva/Desktop/chance/second-chance-multitype-alyoshinkkaa/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alyonashinkareva/Desktop/chance/second-chance-multitype-alyoshinkkaa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alyonashinkareva/Desktop/chance/second-chance-multitype-alyoshinkkaa/cmake-build-debug/libraries/CMakeFiles/edit_cache.dir
+/Users/alyonashinkareva/Desktop/chance/second-chance-multitype-alyoshinkkaa/cmake-build-debug/libraries/CMakeFiles/rebuild_cache.dir
+/Users/alyonashinkareva/Desktop/chance/second-chance-multitype-alyoshinkkaa/cmake-build-debug/libraries/acp/CMakeFiles/second-chance-multitype.dir
+/Users/alyonashinkareva/Desktop/chance/second-chance-multitype-alyoshinkkaa/cmake-build-debug/libraries/acp/CMakeFiles/tests.dir
+/Users/alyonashinkareva/Desktop/chance/second-chance-multitype-alyoshinkkaa/cmake-build-debug/libraries/acp/CMakeFiles/edit_cache.dir
+/Users/alyonashinkareva/Desktop/chance/second-chance-multitype-alyoshinkkaa/cmake-build-debug/libraries/acp/CMakeFiles/rebuild_cache.dir

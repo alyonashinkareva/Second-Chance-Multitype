@@ -1,0 +1,8 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/alyonashinkareva/Desktop/chance/second-chance-multitype-alyoshinkkaa -B /Users/alyonashinkareva/Desktop/chance/second-chance-multitype-alyoshinkkaa/cmake-build-debug
+CMake Error at CMakeLists.txt:6:
+  Parse error.  Expected a newline, got identifier with text "file".
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/alyonashinkareva/Desktop/chance/second-chance-multitype-alyoshinkkaa/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/Users/alyonashinkareva/Desktop/chance/second-chance-multitype-alyoshinkkaa/cmake-build-debug/CMakeFiles/CMakeError.log".
